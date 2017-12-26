@@ -5,7 +5,7 @@
       {
         "appID": "NZRM985G2T.com.reactoo.live",
         "paths": [
-          "/joinRoom/"
+          "*"
         ]
       }
     ]
